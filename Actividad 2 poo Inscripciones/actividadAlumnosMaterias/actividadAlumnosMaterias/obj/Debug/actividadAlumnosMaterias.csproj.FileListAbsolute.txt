@@ -1,0 +1,2 @@
+C:\Users\RODRIGO\Source\Repos\Rodrigo91218\actividadAlumnosMaterias\actividadAlumnosMaterias\obj\Debug\actividadAlumnosMaterias.csproj.AssemblyReference.cache
+C:\Users\RODRIGO\Source\Repos\Rodrigo91218\actividadAlumnosMaterias\actividadAlumnosMaterias\obj\Debug\actividadAlumnosMaterias.csproj.CoreCompileInputs.cache
